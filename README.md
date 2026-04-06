@@ -20,3 +20,11 @@ I'm a SRE/DevOps engineer with 10+ years of experience in IT and 4+ years of exp
 🔹Monitoring and management using APM tools like Dynatrace
 
 
+🌍 Let's Connect 
+
+<a href="https://www.linkedin.com/in/diya-sahana-63679439/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       alt="LinkedIn"
+       width="40"/>
+</a>
+
