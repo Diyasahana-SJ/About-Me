@@ -22,9 +22,18 @@ I'm a SRE/DevOps engineer with 10+ years of experience in IT and 4+ years of exp
 
 🌍 Let's Connect 
 
-<a href="https://www.linkedin.com/in/diya-sahana-63679439/" target="_blank">
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/diya-sahana-63679439/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/sahanasj?tab=stars)
+
+
+<!-- <a href="https://www.linkedin.com/in/diya-sahana-63679439/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
        alt="LinkedIn"
        width="40"/>
 </a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+       width="40" height="40"/>
+</a> -->
+
 
